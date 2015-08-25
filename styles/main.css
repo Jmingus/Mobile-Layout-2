@@ -1,0 +1,99 @@
+header{
+  background-color: #0F8BC0;
+  height: 3.13em;
+}
+
+.intro-box{
+  height: 68.75em;
+  background-color: #334051;
+  padding: 10.63em 0 0 0;
+}
+
+.create-website{
+  color: #FDFBFC;
+  font-size: 2em;
+  text-align: center;
+}
+
+.wordpress{
+  font-size: 1em;
+}
+
+.top-wordpress{
+  margin-top: 2.81em;
+}
+
+.bottom-wordpress{
+  margin-bottom: 2.06em;
+}
+
+.button-box{
+  height: 3.38em;
+  background-color: #1D8CBE;
+  border: .69em solid #212933;
+  margin: 0 35% 13.25em 35%;
+}
+
+.small-white-box{
+  height: 1.44em;
+  background-color: #FFFFFF;
+  margin: 0 45% 8.31em 45%;
+}
+
+.large-white-box{
+  height: 4.38em;
+  background-color: #FFFFFF;
+  margin: 0 20% 1.88em 20%;
+}
+
+.ice-white-box{
+  height: 11.88em;
+  background-color: #E8F0F5;
+}
+
+.multi-white-box{
+  height: 13.25em;
+  background-color: #FFFFFF;
+  border: 0.75em solid #D1D3D7;
+}
+
+.top-multi{
+  border-top: 2.06em solid #D1D3D7;
+}
+
+.bottom-multi{
+  border-bottom: 2.06em solid #D1D3D7;
+}
+
+.bottom-ice-white-box {
+  padding: 6.06em 0 0 0;
+  box-sizing: border-box;
+}
+.bottom-button-box{
+  border: none;
+  margin: 0 35% 0 35%;
+}
+
+.black-footer{
+  height: 8.13em;
+  background-color: #000000;
+  padding: 1.75em 0 0 0;
+  box-sizing: border-box;
+}
+
+.footer-text{
+  color: #FFFFFF;
+  text-align: center;
+  font-size: .8em;
+  padding: 0 0 .5em 0;
+}
+
+.black-footer-white-box{
+  height: 1.56em;
+  background-color: #FFFFFF;
+  margin: 1.19em 37% 1.19em 37%;
+}
+
+.text-padding{
+  padding: 0 1em 0 1em;
+}
