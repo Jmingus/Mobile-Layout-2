@@ -76,12 +76,15 @@ header{
 }
 
 .bottom-ice-white-box {
-  padding: 6.06em 0 0 0;
+  padding: 1.94em 0 0 0;
+  font-size:;
   box-sizing: border-box;
 }
 .bottom-button-box{
   border: none;
   margin: 0 auto;
+  margin-top: 3.44em;
+  padding-top: .2em;
 }
 
 .black-footer{
@@ -100,7 +103,6 @@ header{
 
 .black-footer-white-box{
   height: 1.56em;
-  background-color: #FFFFFF;
   margin: 1.19em 37% 1.19em 37%;
 }
 
